@@ -12,4 +12,4 @@ WiseUp is an AI-driven behavioural finance ecosystem designed to help Malaysian 
 | Money Coach AI | Personalized financial insights and AI chatbot |
 
 # 🎨 UI/UX Prototype
-https://www.figma.com/proto/KoO6JvJWLoYp3i8i2NrMGU/PowerNetGurl_WiseUp?node-id=7020-3430&t=4BwRa7APNrAmpMHm-1
+https://www.figma.com/proto/KoO6JvJWLoYp3i8i2NrMGU/PowerNetGurl_WiseUp?node-id=7020-3430&t=ZrQHgjBdE0VJ3EEp-1
